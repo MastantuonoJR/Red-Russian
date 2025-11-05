@@ -17,7 +17,7 @@ Para instalar Red Russian, sigue estos pasos:
 
 1. Clona el repositorio desde GitHub:
    ```bash
-   git clone https://github.com/stevenninex/red-russian.git
+   git clone https://github.com/mastantuonojr/red-russian.git
    ```
 2. Dirigete a la carpeta del programa
    ```bash
